@@ -32,4 +32,5 @@ body {
 .main-screen_find {
   padding: 0px var(--horizontal-space);
   height: 100vh;
+  z-index: 99;
 }
