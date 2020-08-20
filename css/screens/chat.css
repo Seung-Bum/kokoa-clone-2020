@@ -83,7 +83,7 @@
   padding: 10px;
   border-radius: 10px;
   border-top-left-radius: 0px;
-  margin-right: 50px;
+  margin-right: 10px;
   font-size: 18px;
 }
 
@@ -126,7 +126,7 @@
   border-top-right-radius: 0px;
   border-top-left-radius: 15px;
   margin-right: 0px;
-  margin-left: 5px;
+  margin-left: 10px;
 }
 
 .message-row--own .message__info {
